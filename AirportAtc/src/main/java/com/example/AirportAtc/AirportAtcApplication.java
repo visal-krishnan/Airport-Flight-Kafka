@@ -1,0 +1,13 @@
+package com.example.AirportAtc;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class AirportAtcApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(AirportAtcApplication.class, args);
+	}
+
+}
